@@ -1,5 +1,5 @@
 [project]
-name = "University information system"
+name = "university-information-system"
 version = "0.1.0"
 description = "Project on designing information systems"
 readme = "README.md"
